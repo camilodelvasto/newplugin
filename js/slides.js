@@ -234,7 +234,7 @@ function prevSlide() {
     updateSlides();
   }
 };
-//chunga!
+//chungarrias!
 function nextSlide() {
   if (buildNextItem()) {
     return;

@@ -233,7 +233,7 @@ function prevSlide() {
     updateSlides();
   }
 };
-
+//chunga!
 function nextSlide() {
   if (buildNextItem()) {
     return;

@@ -246,7 +246,7 @@ function nextSlide() {
     updateSlides();
   }
 };
-
+//pailongas
 function beginSlide() {
   if (curSlide != 0) {
     curSlide=0;

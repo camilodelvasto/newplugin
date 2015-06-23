@@ -246,7 +246,7 @@ function nextSlide() {
     updateSlides();
   }
 };
-//pailongas
+//pailonga pichurrio
 function beginSlide() {
   if (curSlide != 0) {
     curSlide=0;
